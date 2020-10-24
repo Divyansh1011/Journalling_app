@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1080037930608",
+    "firebase_url": "https://petmedical-da743.firebaseio.com",
+    "project_id": "petmedical-da743",
+    "storage_bucket": "petmedical-da743.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080037930608:android:5c882cddad38174f2266b5",
+        "android_client_info": {
+          "package_name": "com.example.crud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080037930608-igqfigp1p3srq46fcp8kks6inchm28g2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeF_0sY5KdHomUW99ZOeIIDYCA8igs0gI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080037930608-igqfigp1p3srq46fcp8kks6inchm28g2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080037930608:android:fde1f3de2c5c03552266b5",
+        "android_client_info": {
+          "package_name": "com.raywenderlich.pet_medical"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080037930608-igqfigp1p3srq46fcp8kks6inchm28g2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeF_0sY5KdHomUW99ZOeIIDYCA8igs0gI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080037930608-igqfigp1p3srq46fcp8kks6inchm28g2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
